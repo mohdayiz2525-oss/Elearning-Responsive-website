@@ -1,0 +1,13 @@
+I developed a clone of an E-Learning platform using HTML, CSS, Bootstrap, and JavaScript.
+
+HTML was used to structure the website, creating pages such as Home, Courses, About, and Contact.
+
+CSS handled the custom styling, ensuring a modern and responsive design with consistent fonts, colors, and layouts.
+
+Bootstrap simplified the design process with its grid system, prebuilt components (navbar, cards, buttons, modals), and responsiveness across devices.
+
+JavaScript added interactivity, including features like form validation, dynamic course filtering, search functionality, and interactive navigation menus.
+
+The site design focused on user-friendly navigation, showcasing courses in card/grid layouts, and included a responsive navbar and footer for easy access to all sections.
+
+This project demonstrates how front-end technologies can be combined to build a functional, responsive, and visually appealing clone of an online learning platform.
